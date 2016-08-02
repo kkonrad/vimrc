@@ -1,4 +1,6 @@
 
+set t_Co=256
+
 " Unfold all 
 au BufRead * normal zR
 
